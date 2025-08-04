@@ -2,6 +2,8 @@
 
 This project demonstrates how to host a **static website** on **Amazon S3**, one of the core storage services provided by AWS. It includes step-by-step instructions for deploying a simple `index.html` file, setting up permissions, enabling public access, and accessing your live website via a public URL.
 
+📄 You can find the complete step-by-step implementation guide in the [project documentation](./Static_Web_Hosting_Madhu_Nadh.pdf).
+
 
 ### 🧰 Tech Stack
 - **Amazon S3**
